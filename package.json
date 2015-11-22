@@ -12,7 +12,8 @@
     "ejs": "*",
     "express": "3.4.0",
     "grunt-contrib-less": "^1.1.0",
-    "less": "^2.5.3"
+    "less": "^2.5.3",
+    "mongoose": "^4.2.7"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
